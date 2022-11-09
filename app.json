@@ -5,7 +5,7 @@
   "env": {
     "bot_token": {
       "description": "5706827743:AAG-Lw_GT0VI0wiRsXXHKIPCWNg3KpFzjuc"
-    },"tl_admin_user": {Andi9919 
+    },"tl_admin_user": { 
       "description": "usuarion administrador del bote de telegram","value":"Andi9919"
     }
   }
